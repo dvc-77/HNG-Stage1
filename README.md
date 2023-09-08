@@ -1,4 +1,4 @@
-# HNG-Stage1
+# HNG-StageOne
 
 ### Built with
 
